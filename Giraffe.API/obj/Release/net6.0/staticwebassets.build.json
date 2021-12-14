@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "90BftsMljNGx0G+GBnTPP+dUPNoUbvh7FIk5GqS7vvw=",
+  "Source": "Giraffe.API.App",
+  "BasePath": "_content/Giraffe.API.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

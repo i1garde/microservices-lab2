@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPM2o4ftBUOmdb9jJCzpoE5/q1LOICmSmJXAtmU0jbI=",
+  "Source": "Giraffe.API.App",
+  "BasePath": "_content/Giraffe.API.App",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
