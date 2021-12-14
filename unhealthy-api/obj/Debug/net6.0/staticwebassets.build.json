@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qdd3G+c9hsclKBojiuJ0SDLBS0ETTZjutoCXO2vkFV8=",
+  "Source": "unhealthy-api",
+  "BasePath": "_content/unhealthy-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
