@@ -4,6 +4,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Giraffe.API", "Giraffe.API\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "Frontent.Web\src\App.fsproj", "{22DCCE73-3CFB-40D7-96B6-662B455E2E1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unhealthy-api", "unhealthy-api\unhealthy-api.csproj", "{96B0E25F-BFB9-46B6-A0A4-92C6C1B25853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{22DCCE73-3CFB-40D7-96B6-662B455E2E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DCCE73-3CFB-40D7-96B6-662B455E2E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DCCE73-3CFB-40D7-96B6-662B455E2E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B0E25F-BFB9-46B6-A0A4-92C6C1B25853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B0E25F-BFB9-46B6-A0A4-92C6C1B25853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B0E25F-BFB9-46B6-A0A4-92C6C1B25853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B0E25F-BFB9-46B6-A0A4-92C6C1B25853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
