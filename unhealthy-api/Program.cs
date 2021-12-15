@@ -10,13 +10,13 @@ app.MapGet("/api/service2", () =>
     {
         Thread.Sleep(10000);
     }
-    return "Hello World!";
+    return $"Status: {status}\nHello World!";
 });
 
 app.MapGet("/api/service2/untested-request", () =>
 {
     status = "FAILED";
-    return "Service is broken!";
+    return $"Status: {status}\nService is broken!";
 });
 
 app.Run();

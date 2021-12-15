@@ -35,8 +35,8 @@ let webApp =
     choose [
         GET >=>
             choose [
-                routex "/api(/?)" >=> indexHandler "world"
-                routef "/api/hello/%s" indexHandler
+                route "/api/service1" >=> indexHandler "world"
+                routef "/api/service1/%s" indexHandler
             ]
         setStatusCode 404 >=> text "Not Found" ]
 
