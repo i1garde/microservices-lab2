@@ -18,3 +18,11 @@ spec:
           name: client
           ports:
             - containerPort: 8080
+              
+              
+  vault policy write client - <<EOF
+  path "secret/data/client/config" {
+  capabilities = ["read"]
+}
+  EOF
+Success! Uploaded policy: client

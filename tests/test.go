@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-var concurrentRequests = 1000
+var concurrentRequests = 100
 var errCount = 0
 
 var duration = float64(0)

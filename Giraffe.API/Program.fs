@@ -39,6 +39,7 @@ let webApp =
                 routef "/api/service1/%s" indexHandler
             ]
         setStatusCode 404 >=> text "Not Found" ]
+    
 
 // ---------------------------------
 // Error handler

@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "GV9XJrJP0d/Jdd1nu7nWD18Puf8ReerTSJfdc+jdrrTLQqb1IFYELX/6hc1zA9KjXiK4ZoESHLJI1JXo9K34VA==",
+  "dgSpecHash": "JKzwMeFUpFhSafaXa1fAox9oasuWMmlpYizx1LvMR2W/gW9S3zwmcdKAhEsE81jBfu9RO0lcOEKpH0jCf5me9g==",
   "success": true,
   "projectFilePath": "/home/ivan/RiderProjects/microservices-lab2/unhealthy-api/unhealthy-api.csproj",
   "expectedPackageFiles": [
+    "/home/ivan/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
+    "/home/ivan/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",
     "/home/ivan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/ivan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/ivan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/home/ivan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/home/ivan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/ivan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/ivan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/ivan/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
